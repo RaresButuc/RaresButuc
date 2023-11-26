@@ -5,13 +5,13 @@ Hey! I'm Rares, Romanian Full Stack Developer with an insatiable curiosity for t
 ## Skill Set🛠️
 
 ![1](https://github.com/RaresButuc/RaresButuc/assets/116391767/9105fa53-9894-4011-9269-cd27f5671d4d)
-![2](https://github.com/RaresButuc/RaresButuc/assets/116391767/037673f1-c4e6-40cc-bafd-69a1934a6956)
+![2](https://github.com/RaresButuc/RaresButuc/assets/116391767/fd13f8f2-4775-40ac-903f-d48ef779d1b5)
 ![3](https://github.com/RaresButuc/RaresButuc/assets/116391767/57ea16e2-68b3-43fa-b16e-7d60c0ccdd0f)
 ![4](https://github.com/RaresButuc/RaresButuc/assets/116391767/5072768b-d75a-40df-be38-0a579b266ffd)
 ![5](https://github.com/RaresButuc/RaresButuc/assets/116391767/25656e8f-7631-4918-9610-0581e062c140)
 ![6](https://github.com/RaresButuc/RaresButuc/assets/116391767/85f43087-1ea0-4252-9428-b0d6c1f546e2)
 ![7](https://github.com/RaresButuc/RaresButuc/assets/116391767/57fc77a6-0d7c-46e3-a338-cb2a7e783e90)
-![8](https://github.com/RaresButuc/RaresButuc/assets/116391767/f69d5734-d8dd-4a0b-96f3-e04e53e1bd22)
+![8](https://github.com/RaresButuc/RaresButuc/assets/116391767/73103b69-98ee-4884-b57f-bc9e85af9baf)
 ![9](https://github.com/RaresButuc/RaresButuc/assets/116391767/0bfc41dd-37fa-415f-9afc-cb8b7cbcac78)
 ![10](https://github.com/RaresButuc/RaresButuc/assets/116391767/b2767583-d73d-448a-adff-f7e5c34398ce)
 ![11](https://github.com/RaresButuc/RaresButuc/assets/116391767/f48c3b38-765c-48cc-8000-6a61c0152b1e)
